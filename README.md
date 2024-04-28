@@ -2,6 +2,7 @@
 
 ## 2024
 
+- [Week 17](notes/2024-17.md)
 - [Week 16](notes/2024-16.md)
 - [Week 15](notes/2024-15.md)
 - Week 14: Vacation
