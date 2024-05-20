@@ -2,6 +2,8 @@
 
 ## 2024
 
+- Week 21: Vacation
+- [Weeks 19 & 20](notes/2024-20.md)
 - [Week 18](notes/2024-18.md)
 - [Week 17](notes/2024-17.md)
 - [Week 16](notes/2024-16.md)
